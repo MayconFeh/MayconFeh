@@ -36,7 +36,7 @@
 ### Studying in this moment:
 <div style="display: inline_block">
   <img align="center" alt="MayconFeh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="MayconFeh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresq/postgresq-original.svg">
+  <img align="center" alt="MayconFeh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MayconFeh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
