@@ -5,8 +5,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MayconFeh&show_icons=true&count_private=true&hide_border=true&title_color=ad1222&icon_color=ad1222&text_color=ffffff&bg_color=0d1117" alt=" MayconFeh github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconFeh&layout=compact&hide_border=true&title_color=ad1222&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MayconFeh&show_icons=true&count_private=true&hide_border=true&title_color=ad1222&icon_color=ad1222&text_color=00ff00&bg_color=0d1117" alt=" MayconFeh github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconFeh&layout=compact&hide_border=true&title_color=ad1222&text_color=00ff00&bg_color=0d1117" />
 </div>  
 
 <div align="center"> 
