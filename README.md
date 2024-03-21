@@ -13,7 +13,7 @@
   <a href="https://instagram.com/maycon_feh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mfbm87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-felipe-bezerra-machado-939a8b263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5511963605188&text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20seus%20orsamentos." target="_blank"><img src="https://imagepng.org/whatsapp-icone-icon/whatsapp-icone/" target="_blank" height="30" width="40"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511963605188&text=Olá" target="_blank"><img src="https://imagepng.org/whatsapp-icone-icon/whatsapp-icone/" target="_blank" height="30" width="40"></a> 
   
 </div>
 
@@ -42,7 +42,7 @@
 <div style="display: inline_block">
   <img align="center" alt="MayconFeh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MayconFeh-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="center" alt="MayconFeh-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="MayconFeh-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
   <img align="center" alt="MayconFeh-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
   <img align="center" alt="MayconFeh-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
 </div>
