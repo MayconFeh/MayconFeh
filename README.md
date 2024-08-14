@@ -45,6 +45,7 @@
   <img align="center" alt="MayconFeh-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
   <img align="center" alt="MayconFeh-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
   <img align="center" alt="MayconFeh-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="MayconFeh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
 </div>
 </div>
 
